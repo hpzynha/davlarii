@@ -1,4 +1,11 @@
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/larissanrocha/)
+[<img src="https://img.shields.io/github/followers/hpzynha?label=follow&style=social" height="22" title="Follow me" />](https://github.com/hpzynha) 
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:larissa.nogueira.rocha@gmail.com)
+
 ### Hi there 👋
+
+I'm 
+
 
 <!--
 **hpzynha/hpzynha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
