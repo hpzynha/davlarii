@@ -5,9 +5,7 @@
 ### Hi there 👋
 
 
-<p align="center"> 
- <a><img src="https://github-readme-stats.vercel.app/api?username=hpzynha&show_icons=true&theme="blueyellow" /></a>
-</p> 
+
 
 <!--
 **hpzynha/hpzynha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
