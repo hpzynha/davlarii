@@ -9,6 +9,11 @@
 - 👯 Eu espero colaborar em projetos desafiadores e ajudar a comunidade dev a crescer.
 
 
+<p align="center"> 
+ <a><img src="https://github-readme-stats.vercel.app/api?username=hpzynha&show_icons=true&theme=blue" /></a>
+</p> 
+
+
 
 
 
