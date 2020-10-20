@@ -4,13 +4,9 @@
 
 ### Eaí, pessoal! Eu sou a Larissa mas podem me chamar de Lari!
 
-<ul>
-  <li>
 
-<p>🕮 Atualmente eu estou estudando programação Front-End focando em três linguagens. (HTML5, CSS3 e JavaScript)</p>
-<p>👯 Eu espero colaborar em projetos desafiadores e ajudar a comunidade dev a crescer.</p>
-</li>
-</ul>
+- 🕮 Atualmente eu estou estudando programação Front-End focando em três linguagens. (HTML5, CSS3 e JavaScript)
+- 👯 Eu espero colaborar em projetos desafiadores e ajudar a comunidade dev a crescer.
 
 
 
