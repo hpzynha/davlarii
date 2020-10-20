@@ -2,11 +2,11 @@
 [<img src="https://img.shields.io/github/followers/hpzynha?label=follow&style=social" height="22" title="Follow me" />](https://github.com/hpzynha) 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:larissa.nogueira.rocha@gmail.com)
 
-### Eaí, pessoal! Eu sou a Larissa mas podem me chamar de Lari!
+# Olá, Eu sou a Larissa mas podem me chamar de Lari!
 
 
 - 🕮 Atualmente eu estou estudando programação Front-End focando em três linguagens. (HTML5, CSS3 e JavaScript)
-- 👯 Eu espero colaborar em projetos desafiadores e ajudar a comunidade dev a crescer.
+- 🤝 Eu espero colaborar em projetos desafiadores e ajudar a comunidade dev a crescer.
 
 
 <p align="center"> 
