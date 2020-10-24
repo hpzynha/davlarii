@@ -2,7 +2,9 @@
 [<img src="https://img.shields.io/github/followers/hpzynha?label=follow&style=social" height="22" title="Follow me" />](https://github.com/hpzynha) 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:larissa.nogueira.rocha@gmail.com)
 
-## Olá, Eu sou a Lari!
+## Olá, Eu sou a Lari, onde em todas as redes sociais é a hpzynha! 🖖
+
+** Aqui você vai encontrar umonte de Hello Word
 
 
 - 🕮 Atualmente eu estou estudando programação Front-End focando em três linguagens. (HTML5, CSS3 e JavaScript)
