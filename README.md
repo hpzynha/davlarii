@@ -4,7 +4,7 @@
 
 ## Olá, Eu sou a Lari, onde em todas as redes sociais é a hpzynha! 🖖
 
-** Aqui você vai encontrar umonte de Hello Word
+ * Aqui você vai encontrar umonte de Hello Word
 
 
 - 🕮 Atualmente eu estou estudando programação Front-End focando em três linguagens. (HTML5, CSS3 e JavaScript)
