@@ -7,8 +7,9 @@
   Aqui você vai encontrar umonte de Hello World!
 
 
-- 🕮 Atualmente eu estou estudando programação Front-End focando em três linguagens. (HTML5, CSS3 e JavaScript)
+- 🕮 Atualmente eu estou estudando JavaScript, TypeScript e ReactJS.
 - 🤝 Eu espero colaborar em projetos desafiadores e ajudar a comunidade dev a crescer.
+- 🔭 Eu vivo por um bom desafio.
 
 
 <p align="center"> 
