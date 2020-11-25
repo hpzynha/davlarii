@@ -7,7 +7,7 @@
   Aqui você vai encontrar umonte de Hello World!
 
 
-- 🕮 Atualmente eu estou estudando JavaScript, TypeScript e ReactJS.
+- 🕮 Atualmente eu estou estudando JavaScript e ReactJS.
 - 🤝 Eu espero colaborar em projetos desafiadores e ajudar a comunidade dev a crescer.
 - 🔭 Eu vivo por um bom desafio.
 
