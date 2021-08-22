@@ -6,7 +6,7 @@ Aqui você vai encontrar umonte de Hello World!
 - 🤝 Eu espero colaborar em projetos desafiadores e ajudar a comunidade dev a crescer.
 - 🔭 Eu vivo por um bom desafio.
 endormi.2077-theme
-<p align="left">
+<p align="center">
  <div>
   <a href="https://github.com/hpzynha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hpzynha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
