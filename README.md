@@ -21,8 +21,6 @@ Here you'll find a lot of 'Hello World'.
  
 ## :trophy: My Github Stats:
  <div align="center">
-  <a href="https://github.com/hpzynha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hpzynha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpzynha&layout=compact&langs_count=7&theme=algolia"/>
   </div>
  
@@ -39,6 +37,9 @@ TYPESCRIPT<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptl
  REACTJS <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" target="_blank" width="40" height="40"/> 
  FIGMA <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" target="_blank" width="40" height="40"/>
 FIREBASE <img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
+
+ <a href="https://github.com/hpzynha">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hpzynha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
 **hpzynha/hpzynha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
