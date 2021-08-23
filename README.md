@@ -13,11 +13,10 @@ Here you'll find a lot of 'Hello World'.
 <p align="left">
  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" alt="HTML5" target="_blank" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" target="_blank" width="40" height="40"/>  
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" target="_blank" width="40" height="40"/> 
- <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" target="_blank" width="40" height="40"/>                                                       
- <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" target="_blank" width="40" height="40"/> 
- <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" target="_blank" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" target="_blank" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" target="_blank" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" target="_blank" width="40" height="40"/>
 </p>
  
 ## :trophy: My Github Stats:
@@ -36,6 +35,11 @@ Here you'll find a lot of 'Hello World'.
 </div>
 
 <!--
+TYPESCRIPT<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" target="_blank" width="40" height="40"/>                                                       
+ REACTJS <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" target="_blank" width="40" height="40"/> 
+ FIGMA <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" target="_blank" width="40" height="40"/>
+FIREBASE <img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
+
 **hpzynha/hpzynha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
