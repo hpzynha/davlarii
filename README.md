@@ -32,6 +32,10 @@ Here you'll find a lot of 'Hello World'.
   <a href="https://www.linkedin.com/in/larissanrocha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<hr>
+
+<p align="center">Desenvolvido com 💜 por Hpzynha</p>
+
 <!--
 TYPESCRIPT<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" target="_blank" width="40" height="40"/>                                                       
  REACTJS <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" target="_blank" width="40" height="40"/> 
