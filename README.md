@@ -2,7 +2,7 @@
 
 Here you'll find a lot of 'Hello World'.
 
-- 🕮 I’m currently studying Flutter.
+- 🕮 I’m currently studying JavaScript.
 - 🤝 I’m looking to collaborate with anyone on any project.
 - 🔭 I live for a challenge
 - 💬 Ask me about anything
