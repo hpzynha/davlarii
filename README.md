@@ -19,7 +19,11 @@ Here you'll find a lot of 'Hello World'.
  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" target="_blank" width="40" height="40"/>
 </p>
 
+ ## :trophy: My Github Stats:
+ <div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpzynha&layout=compact&theme=dracula"/>
  
+  </div>
  
 ## :email: Find me on:
  
