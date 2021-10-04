@@ -17,6 +17,7 @@ Here you'll find a lot of 'Hello World'.
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" target="_blank" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" target="_blank" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="dart" target="_blank" width="40" height="40"/>
 </p>
 
  ## :trophy: My Github Stats:
