@@ -1,6 +1,7 @@
-## Hi, I'm Larissa! But you can call me Lari! 🖖
+<h1 align="center"> Hi, I'm Larissa! But you can call me Lari! 🖖</a></h1>
+<h3 align="center">Here you'll find a lot of 'Hello World'. 😜</h3>
 
-Here you'll find a lot of 'Hello World'.
+
 
 - 🕮 I’m currently studying Dart.
 - 🤝 I’m looking to collaborate with anyone on any project.
@@ -25,6 +26,14 @@ Here you'll find a lot of 'Hello World'.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpzynha&layout=compact&theme=dracula"/>
  
   </div>
+  
+  ## 📚 &ensp;Latest Medium Articles
+
+<!-- BLOG-POST-LIST:START -->
+- [Porque o Flutter está bombando em 2021?](https://medium.com/@dev.lari/porque-o-flutter-est%C3%A1-bombando-em-2021-49ddaefe7951)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ &ensp;[More Articles...](https://medium.com/@dev.lari)
  
 ## :email: Find me on:
  
@@ -33,6 +42,8 @@ Here you'll find a lot of 'Hello World'.
   <a href = "mailto:larissa.nogueira.rocha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/larissanrocha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+
 
 <hr>
 
