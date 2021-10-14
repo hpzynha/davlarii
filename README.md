@@ -30,6 +30,7 @@
   ## 📚 &ensp;Latest Medium Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Tipos e Recursos dos Botões no Flutter](https://medium.com/@dev.lari/tipos-recursos-dos-bot%C3%B5es-no-flutter-69b62b591013)
 - [Porque o Flutter está bombando em 2021?](https://medium.com/@dev.lari/porque-o-flutter-est%C3%A1-bombando-em-2021-49ddaefe7951)
 <!-- BLOG-POST-LIST:END -->
 
