@@ -7,7 +7,7 @@
 - 🤝 I’m looking to collaborate with anyone on any project.
 - 🔭 I live for a challenge
 - 💬 Ask me about anything
-- ⚡ Fun fact: I love reading and playing video games.
+- ⚡ Fun fact: I love reading books and playing video games.
  
 ## 🧰 Languages and Tools:
 
