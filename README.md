@@ -16,8 +16,8 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" target="_blank" width="40" height="40"/>  
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" target="_blank" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" target="_blank" width="40" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" target="_blank" width="40" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" target="_blank" width="40" height="40"/>
+<!--  <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" target="_blank" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" target="_blank" width="40" height="40"/> -->
 
  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" target="_blank" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" target="_blank" width="40" height="40"/>
