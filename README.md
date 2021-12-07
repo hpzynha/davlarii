@@ -3,7 +3,7 @@
 
 
 
-- 🕮 I’m currently studying Dart.
+- 🕮 I’m currently studying Python
 - 🤝 I’m looking to collaborate with anyone on any project.
 - 🔭 I live for a challenge
 - 💬 Ask me about anything
