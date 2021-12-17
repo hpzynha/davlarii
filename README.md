@@ -54,7 +54,7 @@
 
 <hr>
 
-<p align="center">Desenvolvido com 💜 por Hpzynha</p>
+<p align="center">Desenvolvido com 💜 por Larissa Rocha</p>
 
 <!--
 TYPESCRIPT<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" target="_blank" width="40" height="40"/>                                                       
